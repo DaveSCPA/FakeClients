@@ -29,6 +29,9 @@
     "city": "Joplin", 
     "street": "310 W 8th St", 
     "zipcode": "64801",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net"},      
     "jobs": "lawn mower, cleaning"        
     },
     {
@@ -40,6 +43,9 @@
     "city": "Joplin", 
     "street": "310 W 8th St", 
     "zipcode": "64801",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net"},      
     "jobs": "lawn mower, job readiness"       
     }
   ]
