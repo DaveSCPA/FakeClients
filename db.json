@@ -25,7 +25,7 @@
     "web": "https://wateredgardens.org/",      
     "city": "Joplin", 
     "street": "310 W 8th St", 
-    "zipcode": "64801"
+    "zipcode": "64801",
     "jobs": "lawn mower, cleaning"        
     },
     {
@@ -36,7 +36,7 @@
     "web": "https://www.google.com/",      
     "city": "Joplin", 
     "street": "310 W 8th St", 
-    "zipcode": "64801"
+    "zipcode": "64801",
     "jobs": "lawn mower, job readiness"       
     }
   ]
