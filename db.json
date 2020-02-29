@@ -1,5 +1,3 @@
-sloc)  1.59 KB
-  
 {
   "posts": [
     { "id": 1, "title": "Post 1", "fname": "Mattie Zuniga" },
@@ -23,11 +21,6 @@ sloc)  1.59 KB
         "lat": "-37.082167",
         "lng": "-94.515228
       }
-    },
-    "phone": "1-417-555-0001",
-    "info": {
-      "notes": "This is a random note",
-      "jobs": "lawn_mowing moving"
     }
   },
   {
@@ -45,11 +38,6 @@ sloc)  1.59 KB
         "lat": "-37.082167",
         "lng": "-94.515228
       }
-    },
-    "phone": "1-417-555-0002",
-    "info": {
-      "notes": "This is a random note",
-      "jobs": "lawn_mowing moving"
     }
   },
     {
@@ -67,11 +55,6 @@ sloc)  1.59 KB
         "lat": "-37.082167",
         "lng": "-94.515228
       }
-    },
-    "phone": "1-417-555-0003",
-    "info": {
-      "notes": "This is a random note",
-      "jobs": "lawn_mowing moving"
     }
   }  
 ]
