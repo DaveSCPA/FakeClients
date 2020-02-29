@@ -4,6 +4,7 @@
     "fname": "Mattie",
     "lname": "Zuniga",
     "email": "Sincere@april.biz",
+    "web": "www.google.com",
     "address": {
       "street": "310 W 8th St",
       "apt": "",
@@ -25,6 +26,7 @@
     "fname": "Braxton",
     "lname": "Wilcox",
     "email": "Sincere@april.biz",
+    "web": "www.google.com",      
     "address": {
       "street": "310 W 8th St",
       "apt": "",
@@ -46,6 +48,7 @@
     "fname": "Forrest",
     "lname": "Tierney",
     "email": "Sincere@april.biz",
+    "web": "www.google.com",      
     "address": {
       "street": "310 W 8th St",
       "apt": "",
@@ -61,5 +64,5 @@
       "notes": "This is a random note",
       "jobs": "lawn_mowing moving"
     }
-  },  
+  }  
 }
