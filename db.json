@@ -14,7 +14,8 @@
     "web": "https://www.mssu.edu/", 
     "city": "Joplin", 
     "street": "310 W 8th St", 
-    "zipcode": "64801"
+    "zipcode": "64801",
+    "jobs": "lawn mower, moving",  
     },
     {
     "id": 2,
@@ -25,6 +26,7 @@
     "city": "Joplin", 
     "street": "310 W 8th St", 
     "zipcode": "64801"
+    "jobs": "lawn mower, cleaning",        
     },
     {
     "id": 3,
@@ -35,6 +37,7 @@
     "city": "Joplin", 
     "street": "310 W 8th St", 
     "zipcode": "64801"
+    "jobs": "lawn mower, job readiness",        
     }
   ]
 }
