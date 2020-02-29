@@ -1,5 +1,12 @@
 {
-  {
+  "posts": [
+    { "id": 1, "title": "Post 1", "fname": "Mattie Zuniga" },
+    { "id": 2, "title": "Post 2", "fname": "Braxton Wilcox" },
+    { "id": 3, "title": "Post 3", "fname": "Forrest Tierney"}
+  ],
+  
+  "clients": [
+   
     "id": 1,
     "fname": "Mattie",
     "lname": "Zuniga",
@@ -65,4 +72,4 @@
       "jobs": "lawn_mowing moving"
     }
   }  
-}
+]
