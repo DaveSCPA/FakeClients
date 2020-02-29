@@ -1,7 +1,77 @@
+sloc)  1.59 KB
+  
 {
   "posts": [
     { "id": 1, "title": "Post 1", "fname": "Mattie Zuniga" },
     { "id": 2, "title": "Post 2", "fname": "Braxton Wilcox" },
     { "id": 3, "title": "Post 3", "fname": "Forrest Tierney"}
- ]   
-}  
+  ],
+  
+  "clients": [
+    {
+    "id": 1,
+    "fname": "Mattie",
+    "lname": "Zuniga",
+    "email": "Sincere@april.biz",
+    "web": "www.google.com",
+    "address": {
+      "street": "310 W 8th St",
+      "apt": "",
+      "city": "Joplin",
+      "zipcode": "64801",
+      "geo": {
+        "lat": "-37.082167",
+        "lng": "-94.515228
+      },
+    },
+    "phone": "1-417-555-0001",
+    "info": {
+      "notes": "This is a random note",
+      "jobs": "lawn_mowing moving"
+    }
+  },
+  {
+    "id": 2,
+    "fname": "Braxton",
+    "lname": "Wilcox",
+    "email": "Sincere@april.biz",
+    "web": "www.google.com",      
+    "address": {
+      "street": "310 W 8th St",
+      "apt": "",
+      "city": "Joplin",
+      "zipcode": "64801",
+      "geo": {
+        "lat": "-37.082167",
+        "lng": "-94.515228
+      }
+    },
+    "phone": "1-417-555-0002",
+    "info": {
+      "notes": "This is a random note",
+      "jobs": "lawn_mowing moving"
+    }
+  },
+    {
+    "id": 3,
+    "fname": "Forrest",
+    "lname": "Tierney",
+    "email": "Sincere@april.biz",
+    "web": "www.google.com",      
+    "address": {
+      "street": "310 W 8th St",
+      "apt": "",
+      "city": "Joplin",
+      "zipcode": "64801",
+      "geo": {
+        "lat": "-37.082167",
+        "lng": "-94.515228
+      }
+    },
+    "phone": "1-417-555-0003",
+    "info": {
+      "notes": "This is a random note",
+      "jobs": "lawn_mowing moving"
+    }
+  }  
+]
