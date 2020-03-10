@@ -155,7 +155,22 @@
 	      "name": "Romaguera-Crona",
 	      "catchPhrase": "Multi-layered client-server neural-net"},      
 	    "jobs": "lawn mower, cleaning"        
-	    }        
+	    },
+	 {
+	    "id": 22,
+	    "fname": "Dave",
+	    "lname": "Smith",
+	    "email": "Sincere@april.biz",
+	    "phone": "417-555-1111",
+	    "web": " https://wateredgardens.org/", 
+	    "city": "Joplin", 
+	    "street": "310 W 8th St", 
+	    "zipcode": "64801",
+	    "company": {
+	      "name": "Romaguera-Crona",
+	      "catchPhrase": "Multi-layered client-server neural-net"},      
+	    "jobs": "lawn mower, moving"  
+	    },		  
 	  ]
 	}
 
