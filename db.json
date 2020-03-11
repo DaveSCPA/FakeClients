@@ -156,8 +156,8 @@
 	      "catchPhrase": "Multi-layered client-server neural-net"},      
 	    "jobs": "lawn mower, cleaning"        
 	    },
-	 {
-	    "id": 22,
+	    {
+	    "id": 11,
 	    "fname": "Dave",
 	    "lname": "Smith",
 	    "email": "Sincere@april.biz",
@@ -170,7 +170,7 @@
 	      "name": "Romaguera-Crona",
 	      "catchPhrase": "Multi-layered client-server neural-net"},      
 	    "jobs": "lawn mower, moving"  
-	    },		  
+	    }		  
 	  ]
 	}
 
