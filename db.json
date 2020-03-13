@@ -172,6 +172,7 @@
 	    "jobs": "lawn mower, moving"  
 	    }		  
 	  ],
+	
 	  "volunteers": [
 	    {
 	    "id": 1,
@@ -338,6 +339,6 @@
 	      "catchPhrase": "Multi-layered client-server neural-net"},      
 	    "jobs": "lawn mower, moving"  
 	    }		  
-	  ],	
+	  ]	
 	}
 
