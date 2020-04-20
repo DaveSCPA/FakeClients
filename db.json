@@ -263,7 +263,13 @@
 	      "name": "Romaguera-Crona",
 	      "catchPhrase": "Multi-layered client-server neural-net"},      
 	    "jobs": "lawn mower, moving"  
-	    }
+	    },
+	   {
+	    "id": 7,
+	    "fname": "Bob",
+	    "lname": "Jones",
+	    "zipcode": "64804"
+	    }		  
 	  ]	
 	}
 
